@@ -2,11 +2,8 @@
 published: true
 ---
 
----
-layout: post
----
 
-So what are Classes in JavaScript? And why do we have them? What is their usage?
+## So what are Classes in JavaScript? And why do we have them? What is their usage?
 
 First, a prerequisite for understanding this blog post is a knowledge of how Objects in JavaScript works. I will spend a paragraph for anyone who doesn’t know.
 
