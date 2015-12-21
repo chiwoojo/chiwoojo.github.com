@@ -2,8 +2,9 @@
 published: true
 ---
 
-
-
+---
+layout: post
+---
 
 So what are Classes in JavaScript? And why do we have them? What is their usage?
 
