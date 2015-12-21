@@ -30,7 +30,7 @@ How would I build 10 of these in JavaScript?
 
 I guess I can do something like :
 
-{% highlight javascript %}
+```javascript
 var register1 = { 
   opendrawer : function() { … }, 
   closedrawer : function() { … }, 
@@ -48,7 +48,7 @@ var register3 = {
   closedrawer : function() { … }, 
   money : 20 
 }
-{% endhighlight %}
+```
 
 And on down the line. That could certainly work. But it isn’t the most efficient. If computers are not going to be efficient for us, why did we even create them in the first place? ;)
 
