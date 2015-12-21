@@ -11,7 +11,7 @@ First, a prerequisite for understanding this blog post is a knowledge of how Obj
 
 Objects can be seen as a container. A data container. Much like how you would have a plastic container for you socks, underwear, etc. And they look something like this :
 
-```
+```javascript
 var object = { 
   socks : 4, underwear : 6 
 };
