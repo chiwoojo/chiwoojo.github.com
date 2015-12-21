@@ -4,8 +4,7 @@ layout: post
 title: Beginner's Guide to JavaScript Classes
 ---
 
-
-## So what are Classes in JavaScript? And why do we have them? What is their usage?
+So what are Classes in JavaScript? And why do we have them? What is their usage?
 
 First, a prerequisite for understanding this blog post is a knowledge of how Objects in JavaScript works. I will spend a paragraph for anyone who doesn’t know.
 
@@ -31,7 +30,7 @@ How would I build 10 of these in JavaScript?
 
 I guess I can do something like :
 
-```
+{% highlight javascript %}
 var register1 = { 
   opendrawer : function() { … }, 
   closedrawer : function() { … }, 
@@ -49,7 +48,7 @@ var register3 = {
   closedrawer : function() { … }, 
   money : 20 
 }
-```
+{% endhighlight %}
 
 And on down the line. That could certainly work. But it isn’t the most efficient. If computers are not going to be efficient for us, why did we even create them in the first place? ;)
 
