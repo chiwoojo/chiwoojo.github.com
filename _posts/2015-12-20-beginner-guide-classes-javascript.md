@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ---
 layout: post
@@ -134,4 +135,4 @@ var register4 = registerFactory(100);
 
 We can build more using for-loops, etc. 
 
-So that's why and how Classes exist. They make repetitive tasks in creating containers quicker. And it makes it nicely organized :) 
+So that's why and how Classes exist. They make repetitive tasks in creating containers quicker. And it makes it nicely organized :)
