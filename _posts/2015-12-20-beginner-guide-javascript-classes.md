@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: Beginner's Guide to JavaScript Classes
 ---
 
 
