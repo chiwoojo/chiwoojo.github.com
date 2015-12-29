@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Mac doesn't go to sleep with dual monitor set up. Solved. 
+title: "Mac doesn't go to sleep with dual monitor set up. Solved."
+published: true
 ---
+
 
 Does your Mac laptop not go to sleep when you shut it, only to run on the external display? Here is your solution. 
 
@@ -18,5 +20,8 @@ while external display is not connected and then reboot the computer.
 And that's it! 
 
 Try it out :) 
+
+![Screen Shot 2015-12-28 at 9.49.54 AM.png]({{site.baseurl}}/_posts/Screen Shot 2015-12-28 at 9.49.54 AM.png)
+
 
 Found this solution on [Superuser.](http://apple.stackexchange.com/questions/18037/why-wont-closing-the-lid-sleep-my-macbook-pro-with-external-monitor-attached-af)
